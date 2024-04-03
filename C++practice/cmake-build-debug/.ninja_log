@@ -1,0 +1,8 @@
+# ninja log v5
+5	246	1711266050338023346	CMakeFiles/C__practice.dir/switch_.cpp.o	3ef366f1c362fa1e
+0	40	1711433292301758153	build.ninja	444f085cf34d80ce
+0	284	1711263996812375233	CMakeFiles/C__practice.dir/main.cpp.o	728a4ffd3e7a4df0
+246	281	1711266050373776477	C__practice	790751a062abad6f
+3	248	1711264213342949347	CMakeFiles/C__practice.dir/for_.cpp.o	e93bb8e0f3bb5f3d
+0	303	1711520635676219464	CMakeFiles/C__practice.dir/cpp_language_basic.cpp.o	3f75f83e832383da
+305	343	1711520635716919147	C__practice	4436b97322721517

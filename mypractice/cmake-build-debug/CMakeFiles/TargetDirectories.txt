@@ -1,0 +1,3 @@
+/Users/gimtaewon/Desktop/again C++/mypractice/cmake-build-debug/CMakeFiles/mypractice.dir
+/Users/gimtaewon/Desktop/again C++/mypractice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gimtaewon/Desktop/again C++/mypractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
